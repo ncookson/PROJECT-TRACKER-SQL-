@@ -1,0 +1,7 @@
+ id | first_name | last_name |  github   | id | student_github | project_title | grade 
+----+------------+-----------+-----------+----+----------------+---------------+-------
+  1 | Jane       | Hacker    | jhacks    |  2 | jhacks         | Blockly       |     2
+  2 | Sarah      | Developer | sdevelops |  3 | sdevelops      | Markov        |    50
+  2 | Sarah      | Developer | sdevelops |  4 | sdevelops      | Blockly       |   100
+(3 rows)
+
